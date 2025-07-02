@@ -1,104 +1,54 @@
-# co-funder-wanted
-Looking for a technical co-founder (CTO) – SAP, AI, B2B SaaS
+Technical Co‑Founder (CTO) Wanted 🚀
 
+InCycling GmbH📍 Berlin / Remote | Equity-based Co-Founder
 
-# 🚀 Join Us in a purpose powered mission, combining circular economy and commercial viability – We're Hiring a Tech Co-Founder
+🌍 About Us
 
-We are an early-stage venture on a mission to reduce industrial waste and optimize resource flows in the global chemical sector. We're building a **B2B SaaS platform** to match, trade, and route surplus raw materials – using **SAP integration**, **AI-assisted classification**, and a strong sustainability vision.
+InCycling is founded by ex-Bayer leaders on a mission to build the digital backbone of industrial circularity. We enable chemical and pharmaceutical corporates to seamlessly redirect surplus materials into existing distributors and marketplaces—via our cloud-native middleware and ERP integrations.
 
-> 🔍 We're not looking for someone to just write code.  
-> We're looking for a **technically sharp, automation-driven CTO**  
-> who builds smart systems using the best tools available – including **AI assistance**.
+🎯 Your Role
 
----
+As Technical Co‑Founder (CTO), you will:
 
-## 🌍 What We're Building
+Architect and build our scalable SaaS backend and integration layer
 
-Chemical manufacturers around the world waste millions in excess material disposal due to lack of digital infrastructure and market access. We’re solving this with:
+Lead enterprise-grade ERP/API integrations (SAP S/4HANA a plus)
 
-- A **smart B2B marketplace** for surplus chemicals and materials  
-- Direct **SAP & ERP integration** for seamless inventory syncing  
-- **AI-driven matching & classification**, based on product specs and industry metadata  
-- A scalable, secure, modular architecture designed for real industry use
+Develop data-driven automation: surplus detection, ESG compliance, certification workflows
 
-> Think: if Alibaba, SAP, and Clariant built something truly circular together.
+Shape our AI-enhanced matching engine and secure data pipelines
 
----
+Drive key technology decisions, MVP to growth, with full ownership
 
-## 👋 Who We Are
+🧰 You Bring
 
-We are Karym & Sascha, the founding team behind InCycling:
+Strong SaaS/backend dev experience (Python, Java, Node.js or equivalent)
 
-- Deep domain knowledge in **chemical supply chains**, **digital health**, and **global markets**
-- Business & sustainability strategy, funding know-how, and pilot access
-- Positioned for **public innovation funding** and early industry traction
+Experience with ERP integrations (SAP S/4HANA, APIs, middleware)
 
-We’ve validated the model, scoped the product, and are now looking for the right **technical co-founder** to help us build it.
+Cloud architecture know-how (AWS, Azure or GCP)
 
----
+Founder’s mindset: hands-on, autonomous, strategic
 
-## 🧑‍💻 Who We’re Looking For – Tech Co-Founder (CTO Track)
+Passion for sustainability and industrial digitalization
 
-You are an experienced **full-stack engineer**, **solution architect**, or **technical founder** who:
+🎢 What You Get
 
-- thrives in **lean teams with high ownership**
-- embraces **AI tools to boost development efficiency**
-- builds products iteratively with sharp trade-off decisions
+Co‑founder status, meaningful equity, strategic influence
 
-### Ideal Experience:
+Full tech ownership and real impact
 
-- Strong skills in **SAP BTP / CAP / S/4HANA / ERP integration**
-- Experience or deep interest in **machine learning**, especially:
-  - NLP (e.g. extracting information from technical specs or SDS)
-  - Product classification, anomaly detection, similarity matching
-- Comfortable with **cloud-native architectures** (e.g. AWS, Azure)
-- Familiar with API-first design, event-based systems, and modular infrastructure
+Direct access to industrial pilot customers
 
----
+Founding team with deep industry network
 
-## 🧠 How You Think & Work
+📩 Apply Now
 
-You're not just a coder – you're a system thinker, builder, and optimizer.
+Check the role details and apply via LinkedIn or here:
+https://github.com/IC-Karym/co-funder-wanted
 
-You actively use **AI-assisted programming tools** (e.g. GitHub Copilot, Cursor, CodeWhisperer, Claude) to prototype and iterate faster. You know how to:
+Questions? Reach out to:
 
-- Automate repetitive tasks using AI and scripting
-- Evaluate what to build vs. buy vs. integrate
-- Prototype with **low-code/no-code tools** where appropriate
-- Build **robust systems** without building a big team too early
+Dr. Karym El Sayed (karym@incycling.ai)
 
-You’re able to design the foundation and get your hands dirty in the early phase – without reinventing the wheel.
-
----
-
-## 🎯 What You’ll Do
-
-- Co-lead the design of our MVP and core architecture
-- Own and evolve the technical roadmap
-- Build & integrate SAP/ERP connectivity
-- Implement smart data pipelines and ML-powered logic
-- Join funding rounds and define tech hiring strategy
-
----
-
-## 💡 Why Join Us?
-
-- **Co-founder equity** and long-term strategic role
-- Strong purpose: industrial sustainability with real-world impact
-- Industrial traction, domain partnerships, and market access secured
-- A greenfield opportunity to **build the right system from the start**
-
----
-
-## 📫 Get In Touch
-
-If you're excited to bring together **SAP, AI, and real-world industry transformation**, let’s talk.
-
-- Reach out via [LinkedIn](https://www.linkedin.com/in/karym-el-sayed-phd-283a534a/)
-- Or email us: `karym@incycling.ai`
-
-Let’s build something real, meaningful, and scalable.
-
----
-
-### 🙌 Thank you for reading! Star this repo or share it to support our search.
+Sascha Karhöfer (sascha@incycling.ai)
